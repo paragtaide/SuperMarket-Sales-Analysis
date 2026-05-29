@@ -1,3 +1,4 @@
+<img width="1946" height="1059" alt="image" src="https://github.com/user-attachments/assets/c5041b66-ee29-4696-be7e-e502fc73dc00" />
 # README: Data Analyst & ETL Engineer Portfolio
 
 Welcome to my professional data analytics and engineering repository. This space highlights advanced data pipelines, robust automation scripts, and interactive business intelligence solutions designed to convert raw operational data into strategic, actionable insights.
